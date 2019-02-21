@@ -1,5 +1,6 @@
 # 统计每句话上下文中(5句内)频率高的句
 该代码分为两个部分，第一个部分是preprocess.py用于预处理，第二个部分是CountFiveNearest.py用于处理预处理文件生成json文件。每部分代码均包含流程图，请使用draw.io打开对应文件。
+处理数据放在：https://github.com/Fight4Me/putao_zgn/blob/master/%E5%85%A8%E9%83%A8%E5%AF%B9%E8%AF%9D%E6%95%B0%E6%8D%AE.rar
 
 # stanfordNLP的NER接口使用方法
 
